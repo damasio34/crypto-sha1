@@ -1,0 +1,22 @@
+{
+  "name": "cryptojs-sha1",
+  "homepage": "https://github.com/damasio34/cryptojs-sha1",
+  "description": "Pacote da biblioteca CryptoJs#SHA-1 (https://code.google.com/p/crypto-js/#SHA-1).",
+  "main": "cryptojs-sha1.js",
+  "moduleType": [],
+  "keywords": [
+    "cryptojs",
+    "sha1"
+  ],
+  "authors": [
+    "Darlan Damasio <darlan@damasio34.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
